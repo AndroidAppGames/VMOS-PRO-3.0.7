@@ -1,2 +1,2 @@
-# VMOS-PRO-3.0.
+# VMOS PRO 3.0.7
 
